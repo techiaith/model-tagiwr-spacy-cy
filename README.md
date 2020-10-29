@@ -164,7 +164,9 @@ gyda ADP
 chamsillafiadau NOUN
 ```
 
-This tagger was trained on the following CC0 corpus: XXX
+This tagger was trained on the following CC0 corpus:
+
+https://github.com/techiaith/corpws-brawddegau-tagiedig
 
 The tagger uses the Universal Dependencies tagset. 
 
