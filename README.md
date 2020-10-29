@@ -46,7 +46,9 @@ gyda ADP
 chamsillafiadau NOUN
 ```
 
-Hyfforddwyd y tagiwr cychwynnol hwn ar y brawddegau hyfforddi CC0 HYN.
+Hyfforddwyd y tagiwr cychwynnol hwn ar y brawddegau hyfforddi CC0 hyn:
+
+https://github.com/techiaith/corpws-brawddegau-tagiedig
 
 Mae'r tagiwr yn defnyddio set rhannau ymadrodd Universal Dependencies. 
 
