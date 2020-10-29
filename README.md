@@ -52,7 +52,11 @@ https://github.com/techiaith/corpws-brawddegau-tagiedig
 
 Mae'r tagiwr yn defnyddio set rhannau ymadrodd Universal Dependencies. 
 
-Ar hyn o bryd, bydd angen i chi osod ffolder iaith `lang` Cymraeg yn spaCy i hyn weithio. Mae ffolder ddrafft a chyfarwyddiadau ar sut i'w osod yn spaCy ar gael gennym YMA. Byddwn yn cyfrannu'r ffeiliau hyn i spaCy yn y dyfodol agos er mwyn gwneud i ffwrdd â'r angen am y cam hwnnw.
+Ar hyn o bryd, bydd angen i chi osod ffolder iaith `lang` Cymraeg yn spaCy i hyn weithio. Mae ffolder ddrafft a chyfarwyddiadau ar sut i'w osod yn spaCy ar gael gennym yma:
+
+https://github.com/techiaith/spacy-cy-lang
+
+Byddwn yn cyfrannu'r ffeiliau hyn i spaCy yn y dyfodol agos er mwyn gwneud i ffwrdd â'r angen am y cam hwnnw.
 
 Byddwn yn parhau i wella'r tagiwr ac ychwanegu nodweddion newydd iddo dros y misoedd nesaf.
 
@@ -170,7 +174,11 @@ https://github.com/techiaith/corpws-brawddegau-tagiedig
 
 The tagger uses the Universal Dependencies tagset. 
 
-Currently, you will need to install a Welsh `lang` folder in spaCy for this to work. We've provided a draft folder and installation instructions HERE. We will be contributing these files to spaCy in the near future so that this step will no longer be required.
+Currently, you will need to install a Welsh `lang` folder in spaCy for this to work. We've provided a draft folder and installation instructions here:
+
+https://github.com/techiaith/spacy-cy-lang
+
+We will be contributing these files to spaCy in the near future so that this step will no longer be required.
 
 We will be improving the tagger and assing additional functionality over the coming months.
 
