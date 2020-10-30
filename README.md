@@ -63,7 +63,7 @@ Byddwn yn parhau i wella'r tagiwr ac ychwanegu nodweddion newydd iddo dros y mis
 ## Cyfarwyddiadau
 
 1. Gosodwch spaCy 2.3.2 o fewn rhithamgylchedd
-
+[Linux - gweler https://spacy.io/usage ar gyfer systemau eraill]
 ```
 python -m venv .env
 source .env/bin/activate
@@ -185,7 +185,7 @@ We will be improving the tagger and assing additional functionality over the com
 ## Instructions
 
 1. Install spaCy 2.3.2 within a virtual environment
-
+[Linux - see https://spacy.io/usage for alternative systems]
 ```
 python -m venv .env
 source .env/bin/activate
