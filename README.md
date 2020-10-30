@@ -70,7 +70,7 @@ source .env/bin/activate
 pip install -U spacy
 ```
 
-2. Gosodwch y ffolder lang cy drwy ddilyn y cyfarwyddiadau YMA.
+2. Gosodwch y ffolder lang cy drwy ddilyn y cyfarwyddiadau yn https://github.com/techiaith/spacy-lang-cy.
 3. Gosodwch y model ar eich peiriant a'i ddadsipio
 4. Crëwch ffeil Python gyda'r cod canlynol a'i redeg:
 
@@ -192,7 +192,7 @@ source .env/bin/activate
 pip install -U spacy
 ```
 
-2. Install the lang cy folder by following the instructions HERE.
+2. Install the lang cy folder by following the instructions here: https://github.com/techiaith/spacy-lang-cy
 3. Install the model on your computer and unzip it
 4. Create a Python file using the following code and run it:
 
