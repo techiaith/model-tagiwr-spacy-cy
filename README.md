@@ -71,13 +71,13 @@ pip install -U spacy
 ```
 
 2. Gosodwch y ffolder lang cy drwy ddilyn y cyfarwyddiadau yn https://github.com/techiaith/spacy-lang-cy.
-3. Gosodwch y model ar eich peiriant a'i ddadsipio
+3. Gosodwch y model ar eich peiriant, ei ddadsipio fel bod gennych ffolder 'model_tagio_spacy'.
 4. Crëwch ffeil Python gyda'r cod canlynol a'i redeg:
 
 ```
 import spacy
 
-nlp = spacy.load("lleoliad eich model")
+nlp = spacy.load("llwybr/i/model_tagio_spacy")
 
 sents = ["mae'r cathod yn bwyta",
          "roedd y dynion yn hapus",
@@ -193,13 +193,13 @@ pip install -U spacy
 ```
 
 2. Install the lang cy folder by following the instructions here: https://github.com/techiaith/spacy-lang-cy
-3. Install the model on your computer and unzip it
+3. Install the model on your computer and unzip it so that you have a 'model_tagio_spacy' folder.
 4. Create a Python file using the following code and run it:
 
 ```
 import spacy
 
-nlp = spacy.load("location of the model")
+nlp = spacy.load("path/to/model_tagio_spacy")
 
 sents = ["mae'r cathod yn bwyta",
          "roedd y dynion yn hapus",
