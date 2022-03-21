@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Model Tagio Rhannau Ymadrodd Cymraeg/Welsh Language Part of Speech Tagging Model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Delyth
+    family-names: Prys
+    email: d.prys@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
+    orcid: 'https://orcid.org/0000-0002-4909-6926'
+  - given-names: Gruffudd
+    family-names: Prys
+    email: g.prys@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
+    orcid: 'https://orcid.org/0000-0002-2910-2460'
+  - given-names: Gareth Llewellyn
+    orcid: 'https://orcid.org/0000-0001-8929-0718'
+    family-names: Watkins
+    email: g.watkins@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
+notes: "Delyth Prys - Cyfraniad ieithyddol/Linguistic contribution, Gareth Watkins - Cyfraniad ieithyddol/Linguistic contribution, Gruffudd Prys - Cyfraniad ieithyddol a thechnegol/Linguistic and technical contribution"
+url: 'https://github.com/techiaith/model-tagiwr-spacy-cy'
+abstract: >-
+  Model spaCy (2.3.2) sy'n cynnwys tagiwr rhan ymadrodd Cymraeg cychwynnol sydd â chywirdeb o 91% | A Welsh-language spaCy (2.3.2) model featuring a tagger that achieves 91% accuracy on unseen data.
+keywords:
+  - Welsh
+  - Part of Speech
+  - PoS
+  - Model
+  - spaCy
+  - Tagging
+license: MIT
+version: '20.10'
+date-released: '2020-10-30'
